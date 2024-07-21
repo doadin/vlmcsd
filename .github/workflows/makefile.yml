@@ -17,5 +17,5 @@ jobs:
     - name: Install dependencies
       run: |
         make
-        ls /home/runner/work/vlmcsd/vlmcsd
+        ls /home/runner/work/vlmcsd/vlmcsd/bin
 
