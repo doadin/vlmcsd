@@ -17,5 +17,5 @@ jobs:
     - name: Install dependencies
       run: |
         make
-        ls
+        ls /build/bin
 
